@@ -3,11 +3,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/takanassyi/react-and-rekognition.svg)](https://github.com/takanassyi/react-and-rekognition/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/takanassyi/react-and-rekognition/pulls)
 
-# Web App Demo
+# Web App Demo rekognition
 
-![result](https://github.com/takanassyi/react-and-rekognition/blob/main/ref/demo.gif)
-
-
+https://aws.amazon.com/es/rekognition/
 ---
 
 # Getting Started with Create React App
